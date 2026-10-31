@@ -1,54 +1,38 @@
-# Google AI Studio Learning Journey
+# Google Cloud & Generative AI Learning Path
 
-This repository contains my hands-on learning of Google AI Studio.
+This repository contains links to all the Google Cloud Skills Boost courses and hands-on labs I completed.
 
-## Chapters
+## Courses
 
-### 1. Prompting Fundamentals
-🔗 https://github.com/kavya045586-hash/google-ai-studio-prompting
+### 1. The Basics of Google Cloud Compute
+🔗 https://github.com/kavya045586-hash/google-cloud-compute-basics
 
-### 2. System Instructions
-🔗 https://github.com/kavya045586-hash/google-ai-studio-system-instructions
+### 2. Configure Service Accounts and IAM Roles for Google Cloud
+🔗 https://github.com/kavya045586-hash/google-cloud-iam-service-accounts
 
-### 3. Structured Outputs
-🔗 https://github.com/kavya045586-hash/google-ai-studio-structured-output
+### 3. Implement Speech and Language Solutions with Pre-trained APIs
+🔗 https://github.com/kavya045586-hash/google-cloud-speech-language-solutions
 
-### 4. Code Execution
-🔗 https://github.com/kavya045586-hash/google-ai-studio-code-execution
+### 4. Develop AI-Powered Prototypes in Google AI Studio
+🔗 https://github.com/kavya045586-hash/google-ai-studio-prototypes
 
-### 5. Function Calling
-🔗 https://github.com/kavya045586-hash/google-ai-studio-function-calling
+### 5. Analyze Images with the Cloud Vision API
+🔗 https://github.com/kavya045586-hash/google-cloud-vision-api
 
-### 6. URL Context
-🔗 https://github.com/kavya045586-hash/google-ai-studio-url-context
+### 6. Build a Website on Google Cloud
+🔗 https://github.com/kavya045586-hash/google-cloud-website-deployment
 
-### 7. Media Resolution
-🔗 https://github.com/kavya045586-hash/google-ai-studio-media-resolution
+### 7. Create Your First Gemini Enterprise Application
+🔗 https://github.com/kavya045586-hash/google-gemini-enterprise-application
 
-### 8. Google Search Grounding
-🔗 https://github.com/kavya045586-hash/google-ai-studio-search-grounding
+### 8. Store, Process, and Manage Data on Google Cloud
+🔗 https://github.com/kavya045586-hash/google-cloud-data-management
 
-### 9. Maps Grounding
-🔗 https://github.com/kavya045586-hash/google-ai-studio-maps-grounding
+### 9. Using the Google Cloud Speech API
+🔗 https://github.com/kavya045586-hash/google-cloud-speech-api
 
-### 10. Multimodal Inputs
-🔗 https://github.com/kavya045586-hash/google-ai-studio-multimodal-inputs
-
-### 11. AI Studio Projects
-🔗 https://github.com/kavya045586-hash/google-ai-studio-projects
-
-## Learning Outcome
-
-- Prompt Engineering
-- System Instructions
-- Structured Outputs
-- Code Execution
-- Function Calling
-- URL Context
-- Search Grounding
-- Maps Grounding
-- Multimodal AI
-- AI Application Development
+### 10. Explore Generative AI in Agent Platform
+🔗 https://github.com/kavya045586-hash/google-agent-platform-generative-ai
 
 ## Author
 
